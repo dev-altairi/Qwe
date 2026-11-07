@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VoxFree</string>
+    <string name="title_dialer">Dialer</string>
+    <string name="title_recents">Recents</string>
+    <string name="title_rates">Rates</string>
+    <string name="title_settings">Gateway</string>
+    <string name="btn_call">Call</string>
+    <string name="btn_end_call">End Call</string>
+    <string name="btn_boost_credits">Boost Credits</string>
+    <string name="btn_claim_daily">Claim Daily Free Credits</string>
+    <string name="status_calling">Calling PSTN Gateway…</string>
+    <string name="status_ringing">Ringing…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_ended">Call Ended</string>
+</resources>

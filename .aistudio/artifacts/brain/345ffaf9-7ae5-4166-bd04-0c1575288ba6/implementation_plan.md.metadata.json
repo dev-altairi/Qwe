@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to fix 3 critical production bugs in VoxFree: 1) Persistent WebSocket URL and settings via Unified SharedPreferences NetworkSettingsRepository loaded on cold start; 2) Comprehensive runtime permission handling with dedicated microphone explanation screen and POST_NOTIFICATIONS for Android 13+; 3) Universal device compatibility and OEM audio routing fallback (MODE_IN_COMMUNICATION with automatic MODE_IN_CALL fallback for Xiaomi, Huawei, Samsung).",
+  "updatedAt":  "2026-11-02T01:45:46.223824902Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

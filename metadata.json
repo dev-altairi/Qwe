@@ -1,0 +1,6 @@
+{
+  "name": "VoxFree",
+  "description": "100% free App-to-App P2P WebRTC voice calling over direct UDP/SRTP, Google STUN, and 5-digit Call IDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
